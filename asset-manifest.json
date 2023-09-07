@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/pfv1/static/js/main.5bfd2a0c.js",
+    "index.html": "/pfv1/index.html",
+    "main.5bfd2a0c.js.map": "/pfv1/static/js/main.5bfd2a0c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5bfd2a0c.js"
+  ]
+}
